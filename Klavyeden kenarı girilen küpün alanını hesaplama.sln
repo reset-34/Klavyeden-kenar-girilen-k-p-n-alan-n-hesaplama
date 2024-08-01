@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavyeden kenarı girilen küpün alanını hesaplama", "Klavyeden kenarı girilen küpün alanını hesaplama\Klavyeden kenarı girilen küpün alanını hesaplama.csproj", "{336B74C6-C7D0-4F18-BB63-D1D32F582D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336B74C6-C7D0-4F18-BB63-D1D32F582D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336B74C6-C7D0-4F18-BB63-D1D32F582D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336B74C6-C7D0-4F18-BB63-D1D32F582D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336B74C6-C7D0-4F18-BB63-D1D32F582D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9E8050-1635-4BF2-9810-54354FA28118}
+	EndGlobalSection
+EndGlobal
